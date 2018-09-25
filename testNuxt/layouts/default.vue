@@ -89,8 +89,8 @@
   export default {
     data() {
       return {
-        clipped: false,
-        drawer: true,
+        clipped: true,
+        drawer: false,
         fixed: false,
         items: [
           { icon: 'apps', title: 'Welcome', to: '/' },
@@ -99,7 +99,7 @@
         miniVariant: false,
         right: true,
         rightDrawer: false,
-        title: 'Vuetify.js'
+        title: 'Watch moovies'
       }
     }
   }
