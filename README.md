@@ -1,2 +1,0 @@
-# adrabaTestProject
-Movies exhibition
